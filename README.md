@@ -44,3 +44,6 @@ npm install
 Bash
 npm run dev
 
+
+<img width="1366" height="768" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/50dff8dd-171f-4e83-9d77-06e59d1fd480" />
+
