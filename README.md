@@ -25,12 +25,26 @@ VITE_SUPABASE_URL="[https://ekgeskwvnoldrsiathuh.supabase.co](https://ekgeskwvno
 VITE_SUPABASE_ANON_KEY="sb_publishable_H9yYSfdcAvUGwTbBssxMuQ_B5oVikbo"
 VITE_SUPABASE_PROJECT_ID="ekgeskwvnoldrsiathuh"
 
----
-## Instalimi Lokalisht
 
-**1. Klonimi i Projektit**
-```bash
-git clone [https://github.com/diongashii15/Projekti.git](https://github.com/diongashii15/Projekti.git) Cloud-Resume
+Instalimi Lokalisht
+1. Klonimi i Projektit
+Bash
+git clone https://github.com/diongashii15/Projekti.git Cloud-Resume
+
+2. Folderi i punes
+Bash
+cd Cloud-Resume/projekti
+
+3. Instalimi i paketave
+Bash
+npm install
+
+4. Nisja e aplikacionit
+Bash
+npm run dev
+
+Autori
+Zhvilluar nga diongashii15.
 
 
 
