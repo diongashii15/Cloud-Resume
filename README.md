@@ -25,3 +25,9 @@ Per te lidhur databazen, krijo skedarin `.env` ne folderin `/projekti`:
 VITE_SUPABASE_URL="[https://ekgeskwvnoldrsiathuh.supabase.co](https://ekgeskwvnoldrsiathuh.supabase.co)"
 VITE_SUPABASE_ANON_KEY="sb_publishable_H9yYSfdcAvUGwTbBssxMuQ_B5oVikbo"
 VITE_SUPABASE_PROJECT_ID="ekgeskwvnoldrsiathuh"
+
+
+
+Instalimi Lokalisht
+Klonimi i Projektit
+git clone https://github.com/diongashii15/Projekti.git
