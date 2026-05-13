@@ -26,8 +26,17 @@ VITE_SUPABASE_URL="[https://ekgeskwvnoldrsiathuh.supabase.co](https://ekgeskwvno
 VITE_SUPABASE_ANON_KEY="sb_publishable_H9yYSfdcAvUGwTbBssxMuQ_B5oVikbo"
 VITE_SUPABASE_PROJECT_ID="ekgeskwvnoldrsiathuh"
 
-
+---
 
 Instalimi Lokalisht
 Klonimi i Projektit
 git clone https://github.com/diongashii15/Projekti.git
+
+Folderi i punes
+cd Projekti/projekti
+
+Instalimi i paketave
+npm install
+
+Nisja e aplikacionit
+npm run dev
