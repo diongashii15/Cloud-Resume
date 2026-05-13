@@ -1,6 +1,5 @@
 # Cloud Resume Hub
 
-![Banner](https://github.com/diongashii15/Projekti/raw/main/projekti/public/screenshot.png)
 
 Aplikacion modern per menaxhimin e CV-ve ne Cloud, i ndertuar me arkitekturen React dhe Supabase.
 
