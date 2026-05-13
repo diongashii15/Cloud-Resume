@@ -25,17 +25,27 @@ VITE_SUPABASE_URL="[https://ekgeskwvnoldrsiathuh.supabase.co](https://ekgeskwvno
 VITE_SUPABASE_ANON_KEY="sb_publishable_H9yYSfdcAvUGwTbBssxMuQ_B5oVikbo"
 VITE_SUPABASE_PROJECT_ID="ekgeskwvnoldrsiathuh"
 
----
-
 Instalimi Lokalisht
-Klonimi i Projektit
+1. Klonimi i Projektit
+
+Bash
 git clone https://github.com/diongashii15/Projekti.git
+2. Folderi i punes
 
-Folderi i punes
+Bash
 cd Projekti/projekti
+3. Instalimi i paketave
 
-Instalimi i paketave
+Bash
 npm install
+4. Nisja e aplikacionit
 
-Nisja e aplikacionit
+Bash
 npm run dev
+Build per Deploy ne Vercel
+Per te gjeneruar versionin final, perdorni komanden:
+
+Bash
+npm run build
+Autori
+Zhvilluar nga diongashii15.
